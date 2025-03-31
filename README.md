@@ -11,8 +11,8 @@ Method Overloading and Overriding
 - when calling makesound on animal you can have 3 different methods determined by which class you are referring to
 
 Abstraction
--The Appliance class is abstract, so it cant be called directly e.g [Appliance tv = new Appliance()] 
--Fan and Tv extend Appliance and have their own versions of turnOn()
+- The Appliance class is abstract, so it cant be called directly e.g [Appliance tv = new Appliance()] 
+- Fan and Tv extend Appliance and have their own versions of turnOn()
 
 Exception Handling
 - Import scanner so I can receive inputs
